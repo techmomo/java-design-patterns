@@ -8,6 +8,11 @@
       <sourceFolder url="file://$MODULE_DIR$/creational/abstract-factory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creational" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/creational/builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural/bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural/facade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral/chainofresp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral/observer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral/template" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
