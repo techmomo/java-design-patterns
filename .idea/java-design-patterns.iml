@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/behavioral/chainofresp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/behavioral/observer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/behavioral/template" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural/composite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural/decorator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
